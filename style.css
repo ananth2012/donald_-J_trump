@@ -1,0 +1,53 @@
+#donaldpic{
+    height:450px;
+    width:400px;
+    border-radius: 50%;
+    margin-top: 50px;
+    
+}
+#welcome{
+    padding-top: 70px;
+
+    background:linear-gradient(rgb(0, 0, 87),white,rgb(238, 41, 41));
+    padding-bottom: 100px;
+}
+body {
+    text-align: center;
+    
+}
+p {
+    font-family: cursive;
+    padding:50px;
+width:80%;
+margin:auto;
+line-height: 1.2;
+}
+h1 {
+    font-size: 40px;
+    font-weight: 300px;
+}h2 {
+    font-size: 30px;
+    font-weight: 300px;
+}
+.line {
+    height:8px;
+    width:100px;
+    margin:8px auto;
+    background-color: black;
+}
+.menu{
+    position:absolute;
+    top:15px;
+    right:30px;
+    list-style: none;
+    
+}
+.item{
+    float: left;
+    padding-left: 20px;
+    padding-right:25px;
+    color:white;
+    font-size: 25px;
+    font-family:'Black Ops One', cursive;;
+    cursor:pointer
+}
